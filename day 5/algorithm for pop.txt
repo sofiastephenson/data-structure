@@ -1,0 +1,13 @@
+algorithm for pop:
+
+
+begin  
+ if stack is empty  
+    return  
+ endif  
+else  
+ store value of stack[top]  
+ decrement top  
+ return value  
+end else  
+end procedure  
